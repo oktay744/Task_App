@@ -35,11 +35,8 @@ https://www.youtube.com/watch?v=XAtVgjyt4Yc
 - State management was using with the Context API.
 - Tailwind was used for design.
 
-## Pictures
-<img width="1440" alt="Ekran Resmi 2024-05-26 14 40 44" src="https://github.com/oktay379/Playable-Factory-TodoApp/assets/124916788/d405b20c-2ee3-4bf9-9712-495738c312cc">
-<img width="1440" alt="Ekran Resmi 2024-05-26 14 39 58" src="https://github.com/oktay379/Playable-Factory-TodoApp/assets/124916788/6429f55d-4926-44aa-8c64-619f430d2733">
+## Picture
 <img width="1440" alt="Ekran Resmi 2024-05-26 14 42 55" src="https://github.com/oktay379/Playable-Factory-TodoApp/assets/124916788/f4a5e8a7-3172-4f38-8237-337f38b74214">
-<img width="1440" alt="Ekran Resmi 2024-05-26 14 40 30" src="https://github.com/oktay379/Playable-Factory-TodoApp/assets/124916788/1e600d20-1616-4aa2-aef6-dfbd0b6fccc1">
 
 
 
